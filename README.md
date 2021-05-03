@@ -1,2 +1,2 @@
-# cowing_game_of_life
+# conways_game_of_life
 our first game
